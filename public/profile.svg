@@ -1,0 +1,33 @@
+<svg width="1024" height="1024" viewBox="0 0 1024 1024" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Ram Babu H profile illustration">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1024" y2="1024" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#0F172A" />
+      <stop offset="0.5" stop-color="#111827" />
+      <stop offset="1" stop-color="#020617" />
+    </linearGradient>
+    <radialGradient id="glow" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(512 320) rotate(90) scale(420)">
+      <stop stop-color="#60A5FA" stop-opacity="0.35" />
+      <stop offset="1" stop-color="#60A5FA" stop-opacity="0" />
+    </radialGradient>
+    <linearGradient id="accent" x1="180" y1="160" x2="850" y2="860" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#38BDF8" />
+      <stop offset="1" stop-color="#A78BFA" />
+    </linearGradient>
+    <filter id="shadow" x="0" y="0" width="1024" height="1024" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+      <feDropShadow dx="0" dy="18" stdDeviation="24" flood-color="#020617" flood-opacity="0.55" />
+    </filter>
+  </defs>
+
+  <rect width="1024" height="1024" rx="220" fill="url(#bg)" />
+  <circle cx="512" cy="320" r="360" fill="url(#glow)" />
+  <circle cx="512" cy="530" r="230" fill="#0B1220" stroke="rgba(148, 163, 184, 0.18)" stroke-width="8" filter="url(#shadow)" />
+  <circle cx="512" cy="470" r="116" fill="url(#accent)" opacity="0.95" />
+  <path d="M364 770C390 654 447 602 512 602C577 602 634 654 660 770" stroke="url(#accent)" stroke-width="52" stroke-linecap="round" />
+  <circle cx="468" cy="452" r="15" fill="#0F172A" />
+  <circle cx="556" cy="452" r="15" fill="#0F172A" />
+  <path d="M472 496C494 520 530 520 552 496" stroke="#0F172A" stroke-width="16" stroke-linecap="round" />
+  <path d="M284 252C364 184 458 146 512 146C566 146 660 184 740 252" stroke="rgba(148, 163, 184, 0.18)" stroke-width="18" stroke-linecap="round" />
+  <text x="512" y="916" text-anchor="middle" fill="#E2E8F0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="66" font-weight="700" letter-spacing="8">RAM BABU H</text>
+  <text x="512" y="970" text-anchor="middle" fill="#94A3B8" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="26" letter-spacing="3">BACKEND ENGINEER • JAVA • SYSTEM DESIGN</text>
+</svg>
+

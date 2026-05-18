@@ -45,7 +45,7 @@ export default function Hero({ setActiveSection }) {
               className="relative w-32 h-32 md:w-40 md:h-40 rounded-full overflow-hidden glass-dark border-2 border-accent border-opacity-30"
             >
               <img
-                src="/profile.jpg"
+                src="/profile.svg"
                 alt="Ram Babu"
                 className="w-full h-full object-cover"
               />

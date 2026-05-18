@@ -1,0 +1,2 @@
+// Disabled legacy config to avoid ambiguity on Vercel.
+// The active PostCSS config is `postcss.config.cjs`.

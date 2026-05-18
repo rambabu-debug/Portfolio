@@ -82,7 +82,7 @@ export default function Navbar({ activeSection, setActiveSection }) {
             animate={{ opacity: 1, x: 0 }}
             transition={{ delay: 0.3 }}
             href="/resume.pdf"
-            download
+            download="Ram-Babu-H-Resume.pdf"
             className="hidden md:flex items-center gap-2 px-4 py-2 rounded-lg bg-accent hover:bg-accent-light text-white font-medium btn-hover transition-all"
             title="Download Resume"
           >
