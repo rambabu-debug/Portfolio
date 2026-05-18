@@ -1,2 +1,2 @@
-// Disabled legacy config to avoid ambiguity on Vercel.
-// The active PostCSS config is `postcss.config.cjs`.
+// Disabled legacy ESM config to avoid ambiguity on Vercel.
+// Active config: `postcss.config.cjs`.
